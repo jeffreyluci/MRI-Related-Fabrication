@@ -47,6 +47,7 @@ The completed assembly is comfortable, takes away minimal valuable space in the 
 **Figure 5:** Complete assembly of the cup & pad with a Sensimetrics S14 earbud installed.
 
 ![bottom-view](https://user-images.githubusercontent.com/88209977/175674402-94485314-4cdc-415a-b0f4-47a2c5fac1f2.png)
+
 **Figure 6:** Bottom view of the assembly without the cable.
 
 LICENCE and TERMS of USE
