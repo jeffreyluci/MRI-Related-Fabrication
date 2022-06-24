@@ -19,7 +19,7 @@ This project was undertaken without any cooperation, guidance, or support of any
 
 DESCRIPTION
 ---
-Standard replacement earmuff-type pads were selected for their low cost, wide availability, and ease & tolerance of frequent disinfection procedures. The base of the pad was used as a template for a shallow “cup” that receives the pad. The cup’s mounting surface provides vent holes that allow the pad’s own vents to efficiently vent air when compressed. The cup also accepts a think sheet of foam that is provided with the ear pads as a kit. Those sheets may be used at the discretion of the researcher and as appropriate. The padding may provide additional support and cushioning for the buds, but in some cases, it might be necessary to reclaim the space occupied by the sheets in order to optimize comfort.
+Standard replacement earmuff-type pads were selected for their low cost, wide availability, and ease & tolerance of frequent disinfection procedures. The base of the pad was used as a template for a shallow “cup” that receives the pad. The cup’s mounting surface provides vent holes that allow the pad’s own vents to efficiently vent air when compressed. The cup also accepts a thin sheet of foam that is provided with the ear pads as a kit. Those sheets may be used at the discretion of the researcher and as appropriate. The padding may provide additional support and cushioning for the buds, but in some cases, it might be necessary to reclaim the space occupied by the sheets in order to optimize comfort.
 
 ![Sensimetrics earpiece rotation](https://user-images.githubusercontent.com/88209977/175659291-369d330f-c6dd-4837-ba26-13338add1deb.gif)
 
