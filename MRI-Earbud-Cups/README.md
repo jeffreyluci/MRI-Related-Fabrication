@@ -3,7 +3,7 @@ CAD drawings, 3D printer files, and other resources for building cups that impro
 
 BACKGROUND
 ---
-There are organizations that manufacture and sell MRI-safe earbuds for audio delivery to subjects undergojng research MRI scans. [Sensimetrics](https://www.sens.com/) is one such corporation that makes [earbuds](https://www.sens.com/products/earphones-for-fmri-research/) compatible with the unique demands and requirements of many research MRI projects. Earbuds like these use disposable fitted tips in order to maintain sanitary conditions and optimum comfort. Unfortunately, it is sometimes difficult to properly stabilize the head for brain imaging with standard pads without applying unneeded force on the earbuds and causing discomfort. These ear covers are designed to help alleviate that problem. The list of materials needed to fabricate your own set is included in the Fabrication section below.
+There are organizations that manufacture and sell MRI-safe earbuds for audio delivery to subjects undergojng research MRI scans. [Sensimetrics](https://www.sens.com/) is one such corporation that makes [earbuds](https://www.sens.com/products/earphones-for-fmri-research/) compatible with the unique demands and requirements of many research MRI projects. Siemens also provides earbuds with most scanner purchases, though they do not approach the audio fidelity that Sensimetrics does. Earbuds like these use disposable fitted tips in order to maintain sanitary conditions and optimum comfort. Unfortunately, it is sometimes difficult to properly stabilize the head for brain imaging with standard pads without applying unneeded force on the earbuds and causing discomfort. These ear covers are designed to help alleviate that problem. The list of materials needed to fabricate your own set is included in the Fabrication section below.
 
 DESIGN
 ---
@@ -14,6 +14,8 @@ DISCLAIMER
 It is important to note that the items provided in this repository are intended to be used solely for research purposes, and under expert supervision. No clinical exam should be undertaken using the designs, technology, workflow, scheme, or products derived from these in this repository. The author makes no claims as to the applicability or appropriateness of these things for any purpose or intention, and use of any of them are at the user’s own risk. There is no warranty, implied or expressed, for anything provided in this repository. The author accepts no liability and disclaims all responsibility for any consequences, damage, injury, and any other unintended or undesirable results of use.
 
 It should be noted that although this design makes use of earpads and foam sheets that are designed to be used for OSHA-compliant hearing protection, they are not designed for, independently tested, or approved for hearing protection in THIS use case. As a result, NO degree of Sound Pressure Level (SPL) attenuation should be attributed to or expected from them when not used as originally intended by the manufacturer, and this use has NEVER been intended by the manufacturer.
+
+This project was undertaken without any cooperation, guidance, or support of any kind from Sensimetrics, Siemens, or any other third party. All the work contained in this repository is original and novel as produced by the author, Jeffrey Luci.
 
 DESCRIPTION
 ---
