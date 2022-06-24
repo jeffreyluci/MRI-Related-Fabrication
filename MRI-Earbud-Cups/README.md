@@ -46,6 +46,9 @@ The completed assembly is comfortable, takes away minimal valuable space in the 
 
 **Figure 5:** Complete assembly of the cup & pad with a Sensimetrics S14 earbud installed.
 
+![bottom-view](https://user-images.githubusercontent.com/88209977/175674402-94485314-4cdc-415a-b0f4-47a2c5fac1f2.png)
+**Figure 6:** Bottom view of the assembly without the cable.
+
 LICENCE and TERMS of USE
 ---
 All information contained in this repository is copyrighted by Jeffrey Luci, 2021. Jeffrey Luci grants non-exclusive, revocable license to use the information contained in this repository to all persons for non-commercial use, provided that works using information in this respository (including those that build upon, modify, or improve the design) in publication or presentation must reference this repository formally, in accordance with the accepted practices, procedures, and styles of the relevant publishing entity. ALL commercial use must be separately and individually licensed from Jeffrey Luci.
