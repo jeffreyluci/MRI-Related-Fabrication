@@ -1,5 +1,7 @@
-# MRI Earbud Cups
+# Game Controller Style Response Device holder
 CAD drawings and 3D printer files for building a game controller style holder for Current Designs response devices.
+
+<img src="https://github.com/jeffreyluci/MRI-Related-Fabrication/blob/main/CurDes-Holder/assets/FrontView.jpg" width=400/>
 
 BACKGROUND
 ---
@@ -8,6 +10,13 @@ There are organizations that manufacture and sell MRI-safe response devices for 
 DESIGN
 ---
 Meant to mimic the handles common to popular game console controllers, this holder is designed to provide an ergonomic way to hold the response device. In some situations, where only a few buttons are required for interaction, it could even subsitute for the [Current Designs Gamepad2 device](https://www.curdes.com/mainforp/responsedevices/variabledevices/gamepad2.html) at considerably lower cost. 
+
+This has been tested with these [CurDes Response devices](https://www.curdes.com/mainforp/responsedevices/buttonboxes.html):
+* 4 Button Inline
+* 4 Button Curve Right
+* 4 Button Curve Left
+* 8 Button Bimanual Curved Lines
+* 8 Button Bimanual Straight lines
 
 DISCLAIMER
 ---
